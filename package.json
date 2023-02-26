@@ -1,0 +1,21 @@
+{
+  "name": "telegram-openai",
+  "version": "1.0.0",
+  "description": "create telegram bot with API from openAI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zidenalcena",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.20",
+    "openai-api": "^1.3.1"
+  },
+  "devDependencies": {
+    "openai": "^3.1.0"
+  }
+}
