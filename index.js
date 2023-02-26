@@ -3,7 +3,7 @@ const TelegramBot = require('node-telegram-bot-api');
 
 // API openAI key
 const config = new Configuration({
-    apiKey: "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"
+    apiKey: "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"
 })
 
 // API telegram key
